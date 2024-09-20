@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DotNet.App": {
+      "commandName": "Project",
+      "commandLineArgs": "App.dll --Process=1 --StartConfig=StartConfig/Localhost --Console=1",
+      "workingDirectory": "E:\\Git\\ETNi\\Bin"
+    }
+  }
+}
